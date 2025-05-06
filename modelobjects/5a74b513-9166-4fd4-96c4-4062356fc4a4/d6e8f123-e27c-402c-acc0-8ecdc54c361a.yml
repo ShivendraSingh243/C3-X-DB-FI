@@ -98,12 +98,13 @@ terms:
     name: 'customerid'
     hiddenInSource: false
     hiddenInTarget: false
-    isBusinessKey: false
+    isBusinessKey: true
     isForeignKey: false
     isIdentity: false
-    isNullable: true
+    isNullable: false
     dataType:
       platformDataTypeId: 'c6f208b6-6dc4-4977-bed0-a7775c9ff888'
+    propertyValues: []
   - id: '5a3be5be-256f-4e1c-a79a-534017e707f0'
     name: 'personid'
     hiddenInSource: false
