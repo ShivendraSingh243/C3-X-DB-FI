@@ -14,6 +14,7 @@ sourceSystems:
   - id: '8626fa92-a8e7-442a-8f03-99d391a30ddd'
     name: 'crm'
     description: ''
+    activeDiscovery: 'e2c5eaea-28ed-4f66-b073-546a4965d0e4'
     sourceSystemTypeId: 'c5e55725-184f-4c60-a22d-70cb5d6fe513'
 propertyValues:
   - propertyId: '59eca19a-3bec-4169-85fd-41331f6fac3a'
