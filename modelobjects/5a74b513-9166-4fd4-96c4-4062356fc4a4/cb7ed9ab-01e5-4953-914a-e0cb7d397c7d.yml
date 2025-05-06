@@ -98,12 +98,13 @@ terms:
     name: 'currencycode'
     hiddenInSource: false
     hiddenInTarget: false
-    isBusinessKey: false
+    isBusinessKey: true
     isForeignKey: false
     isIdentity: false
-    isNullable: true
+    isNullable: false
     dataType:
       platformDataTypeId: '411ce059-36cd-4df5-9d15-97057995eb76'
+    propertyValues: []
   - id: '29a3c6b9-70ca-47e5-837b-d6739270156d'
     name: 'name'
     hiddenInSource: false
