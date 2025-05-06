@@ -11,6 +11,10 @@ sourceSystems:
     description: 'This is the Source system for the Adventure Works parquet files'
     activeDiscovery: 'dc8901c1-4db3-474f-b4cc-bb7ee12a30ed'
     sourceSystemTypeId: 'c5e55725-184f-4c60-a22d-70cb5d6fe513'
+  - id: '8626fa92-a8e7-442a-8f03-99d391a30ddd'
+    name: 'crm'
+    description: ''
+    sourceSystemTypeId: 'c5e55725-184f-4c60-a22d-70cb5d6fe513'
 propertyValues:
   - propertyId: '59eca19a-3bec-4169-85fd-41331f6fac3a'
     value: 'true'
