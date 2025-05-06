@@ -109,12 +109,13 @@ terms:
     name: 'salesorderdetailid'
     hiddenInSource: false
     hiddenInTarget: false
-    isBusinessKey: false
+    isBusinessKey: true
     isForeignKey: false
     isIdentity: false
-    isNullable: true
+    isNullable: false
     dataType:
       platformDataTypeId: 'c6f208b6-6dc4-4977-bed0-a7775c9ff888'
+    propertyValues: []
   - id: 'e3fc26f4-8f57-4284-a07e-266634e84cf3'
     name: 'carriertrackingnumber'
     hiddenInSource: false
