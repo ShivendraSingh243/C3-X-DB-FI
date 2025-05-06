@@ -98,12 +98,13 @@ terms:
     name: 'creditcardid'
     hiddenInSource: false
     hiddenInTarget: false
-    isBusinessKey: false
+    isBusinessKey: true
     isForeignKey: false
     isIdentity: false
-    isNullable: true
+    isNullable: false
     dataType:
       platformDataTypeId: 'c6f208b6-6dc4-4977-bed0-a7775c9ff888'
+    propertyValues: []
   - id: 'ee292e8d-4a3c-4908-81d1-44349dbdaedf'
     name: 'cardtype'
     hiddenInSource: false
